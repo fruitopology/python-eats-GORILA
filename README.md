@@ -9,3 +9,6 @@ Python script for downloading all pages of:
 Also known as GORILA (Godart, Oliver, Recueil des Inscriptions en Lineaire A)
 
 This script could easily be adapted to download any image file on cefael.efa.gr, so please be nice to their servers.
+
+
+There's more documentation and acknowledgement to Cefael and the French School of Athens in eat-gorila.py
